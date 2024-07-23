@@ -1,4 +1,5 @@
-######PRODIGY_CS_01
+*PRODIGY_CS_01*
 
-Implement Ceaser Cipher
+Implement Ceaser Cipher.
+
 Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
